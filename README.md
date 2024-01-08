@@ -69,6 +69,7 @@ TODO
 There is a lot to be done.
 
 Some ideas I would like to do in the future:
+- find an easy way to get access to the icons in terminal on all distros (I had to remove the icons until we find an easy solution)
 - move to Fastfetch because why not
 - improve output colors / display with GLF brand colors
 - add a if in the print info when 30 days goal reached
