@@ -15,7 +15,7 @@ A project which aims at making creating a small config file for all the GLF Linu
 ### Installation 
 ---
 
-Make sure you have neofetch installed on your distro. Then, use the tutorial below.
+Make sure you have neofetch and kitty installed on your distro. Then, use the tutorial below.
 
 <details>
 <summary> GUI </summary>
@@ -45,6 +45,7 @@ in your preferred folder.
 3. Run 
 ```bash
 cat GLFfetch/challenge.conf > ~/.config/neofetch/config.conf
+cp GLFfetch/GLF.png ~/.config/neofetch/GLF.png
 ```
 
 </details>
