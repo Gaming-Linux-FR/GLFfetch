@@ -52,6 +52,12 @@ cat GLFfetch/challenge.conf > ~/.config/neofetch/config.conf
 Contribution
 ---
 
+Thanks to for the base and the inspiration of this repo: https://github.com/Chick2D/neofetch-themes
+Thanks to for the base theme of this config: gosxrgxx https://github.com/gosxrgxx (simpleFetch)
+Thanks to GLF for inspiring me to create this little config file.
+Thanks to all the testers and the contributors to make it a better script
+
+
 TODO
 ---
 
