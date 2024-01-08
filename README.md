@@ -12,7 +12,9 @@ A project which aims at making creating a small config file for all the GLF Linu
 <a href="https://discord.gg/WCAKxxRA3t">Discord</a> • <a href="https://github.com/Gaming-Linux-FR">Github</a>
 </h4>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zEoRNoo0WSQ?si=6Ec37JH3XQzF_PL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+## YouTube Overview
+
+[![GLFFetch on YouTube](http://img.youtube.com/vi/zEoRNoo0WSQ/0.jpg)](http://www.youtube.com/watch?v=zEoRNoo0WSQ "Discover GLFFetch with A1RM4X")
 
 ### Installation 
 ---
