@@ -42,7 +42,7 @@ you save your current config in the file `configbackup.conf`.
 
 2. Clone this repository by running
 ```bash
-git clone https://github.com/A1RM4X/GLFfetch/
+git clone https://github.com/Gaming-Linux-FR/GLFfetch
 ```
 in your preferred folder.
 
