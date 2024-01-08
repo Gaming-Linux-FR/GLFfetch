@@ -15,7 +15,11 @@ A project which aims at making creating a small config file for all the GLF Linu
 ### Installation 
 ---
 
-Make sure you have neofetch and kitty installed on your distro. Then, use the tutorial below.
+Make sure you have the pacakges installed on your system:
+- neofetch
+- kitty.
+
+Then, use the tutorial below.
 
 <details>
 <summary> GUI </summary>
