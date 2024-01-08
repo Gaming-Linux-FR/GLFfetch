@@ -6,9 +6,7 @@
   <img width="1000" src="https://cdn.discordapp.com/attachments/1138590540573708338/1193941056597794856/image.png?ex=65ae8b42&is=659c1642&hm=ddf20509ec90979dd097c307d751c70d046a96c37b8f83c9af456fea5ce64198&" alt="GLFfetch screenshoot">
 </p>
 
-A project which aims at making your life more convenient by putting a bunch of neofetch configs in a single place.
-
-Video Showcase/Tutorial: https://www.youtube.com/watch?v=aQ44CafqcH0&feature=youtu.be
+A project which aims at making creating a small config file for all the GLF Linux challenges participants.
 
 <h4 align="center"> 
 <a href="https://discord.gg/WCAKxxRA3t">Discord</a> • <a href="https://github.com/Gaming-Linux-FR">Github</a>
