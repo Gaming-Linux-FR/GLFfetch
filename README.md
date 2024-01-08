@@ -12,7 +12,7 @@ A project which aims at making creating a small config file for all the GLF Linu
 <a href="https://discord.gg/WCAKxxRA3t">Discord</a> • <a href="https://github.com/Gaming-Linux-FR">Github</a>
 </h4>
 
-https://youtu.be/zEoRNoo0WSQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zEoRNoo0WSQ?si=6Ec37JH3XQzF_PL_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ### Installation 
 ---
