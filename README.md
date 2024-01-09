@@ -40,7 +40,7 @@ Then, use the tutorial below.
 
 1. Backup your config. By running
 ```bash
-cd ~/.config/neofetch/ && rename config.conf configbackup.conf config.conf
+cp ~/.config/neofetch/config.conf ~/.config/neofetch/configbackup.conf
 ```
 you save your current config in the file `configbackup.conf`.
 
