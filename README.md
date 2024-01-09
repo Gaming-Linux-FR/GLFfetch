@@ -20,7 +20,7 @@ A project which aims at making creating a small config file for all the GLF Linu
 ---
 
 Make sure you have the packages installed on your system:
-- neofetch
+- fastfetch
 - kitty.
 
 Then, use the tutorial below.
@@ -30,9 +30,9 @@ Then, use the tutorial below.
 
 - Go to the `.config` directory in your home folder using your file manager.\
 *Note: Press `Ctrl + H` to locate it, as it is a hidden directory.*
-- Navigate into the `neofetch` directory.
+- Navigate into the `fastfetch` directory.
 
-- Open the file `config.conf` with your preferred text editor and replace the text inside it with the config from this repo. Save the file and you're done!
+- Open the file `config.jsonc` with your preferred text editor and replace the text inside it with the config from this repo. Save the file and you're done!
 </details>
 
 <details>
@@ -40,9 +40,9 @@ Then, use the tutorial below.
 
 1. Backup your config (if you have one) by running
 ```bash
-cp ~/.config/neofetch/config.conf ~/.config/neofetch/configbackup.conf
+cp ~/.config/fastfetch/config.jsonc ~/.config/fastfetch/configbackup.jsonc
 ```
-you save your current config in the file `configbackup.conf`.
+you save your current config in the file `configbackup.jsonc`.
 
 2. Clone this repository by running
 ```bash
@@ -52,8 +52,8 @@ in your preferred folder.
 
 3. Run 
 ```bash
-cat GLFfetch/challenge.conf > ~/.config/neofetch/config.conf
-cp GLFfetch/GLF.png ~/.config/neofetch/GLF.png
+cat GLFfetch/challenge.jsonc > ~/.config/fastfetch/config.jsonc
+cp GLFfetch/GLF.png ~/.config/fastfetch/GLF.png
 ```
 
 </details>
@@ -74,7 +74,7 @@ There is a lot to be done.
 
 Some ideas I would like to do in the future:
 - find an easy way to get access to the icons in terminal on all distros (I had to remove the icons until we find an easy solution)
-- move to Fastfetch because why not
+- ~~move to Fastfetch because why not~~
 - improve output colors / display with GLF brand colors
 - add a if in the print info when 30 days goal reached
 - add progress bar
