@@ -38,7 +38,7 @@ Then, use the tutorial below.
 <details>
 <summary> CLI </summary>
 
-1. Backup your config. By running
+1. Backup your config (if you have one) by running
 ```bash
 cp ~/.config/neofetch/config.conf ~/.config/neofetch/configbackup.conf
 ```
