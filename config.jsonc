@@ -8,5 +8,5 @@
             "shell": "/bin/bash",
             "text": "echo $(stat -c %W /) | awk '{print strftime("%e/%m/%Y",$1)}'"
         }
-
+    ]
 }
