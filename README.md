@@ -19,7 +19,7 @@ A project which aims at making creating a small config file for all the GLF Linu
 ### Installation 
 ---
 
-Make sure you have the pacakges installed on your system:
+Make sure you have the packages installed on your system:
 - neofetch
 - kitty.
 
