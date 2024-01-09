@@ -19,7 +19,7 @@ A project which aims at making creating a small config file for all the GLF Linu
 ### Installation 
 ---
 
-Make sure you have the pacakges installed on your system:
+Make sure you have the packages installed on your system:
 - neofetch
 - kitty.
 
@@ -38,9 +38,9 @@ Then, use the tutorial below.
 <details>
 <summary> CLI </summary>
 
-1. Backup your config. By running
+1. Backup your config (if you have one) by running
 ```bash
-cd ~/.config/neofetch/ && rename config.conf configbackup.conf config.conf
+cp ~/.config/neofetch/config.conf ~/.config/neofetch/configbackup.conf
 ```
 you save your current config in the file `configbackup.conf`.
 
