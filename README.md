@@ -57,7 +57,7 @@ cp GLFfetch/GLF.png ~/.config/fastfetch/GLF.png
 ```
 </details>
 
-### Launch the fastfetch display 
+### Launch GLFfetch
 ---
 
 Execute in terminal
