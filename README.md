@@ -52,8 +52,23 @@ in your preferred folder.
 
 3. Run 
 ```bash
-cat GLFfetch/challenge.jsonc > ~/.config/fastfetch/config.jsonc
+cp GLFfetch/challenge.jsonc > ~/.config/fastfetch/config.jsonc
 cp GLFfetch/GLF.png ~/.config/fastfetch/GLF.png
+```
+
+### Launch the fastfetch display 
+---
+
+Execute in terminal
+
+```bash
+fastfetch --config ~/.config/fastfetch/challenge.jsonc
+```
+
+Create an alias in your terminal. IE if you are using fish, add in your ```~/.config/fish/config.fish```
+
+```bash
+alias GLFfetch="fastfetch --config ~/.config/fastfetch/challenge.jsonc"
 ```
 
 </details>
@@ -73,7 +88,7 @@ TODO
 There is a lot to be done.
 
 Some ideas I would like to do in the future:
-- find an easy way to get access to the icons in terminal on all distros (I had to remove the icons until we find an easy solution)
+- ~~find an easy way to get access to the icons in terminal on all distros (I had to remove the icons until we find an easy solution)~~
 - ~~move to Fastfetch because why not~~
 - improve output colors / display with GLF brand colors
 - add a if in the print info when 30 days goal reached
