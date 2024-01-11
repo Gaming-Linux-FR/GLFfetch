@@ -55,6 +55,7 @@ in your preferred folder.
 cp GLFfetch/challenge.jsonc > ~/.config/fastfetch/config.jsonc
 cp GLFfetch/GLF.png ~/.config/fastfetch/GLF.png
 ```
+</details>
 
 ### Launch the fastfetch display 
 ---
@@ -70,8 +71,6 @@ Create an alias in your terminal. IE if you are using fish, add in your ```~/.co
 ```bash
 alias GLFfetch="fastfetch --config ~/.config/fastfetch/challenge.jsonc"
 ```
-
-</details>
 
 Contribution
 ---
