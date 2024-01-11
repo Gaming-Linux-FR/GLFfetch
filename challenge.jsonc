@@ -12,6 +12,7 @@
         "separator": " ▐  "
     },
     "modules": [
+        "break",
         {
             "type": "os",
             "format": "{3}",
