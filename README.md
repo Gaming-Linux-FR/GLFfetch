@@ -38,10 +38,18 @@ Execute in terminal
 fastfetch --config ~/.config/fastfetch/GLFfetch/challenge.jsonc
 ```
 
-Create an alias in your terminal. IE if you are using fish, add in your ```~/.config/fish/config.fish```
+Create an alias in your terminal.
+
+If you use bash :
 
 ```bash
-alias GLFfetch="fastfetch --config ~/.config/fastfetch/GLFfetch/challenge.jsonc"
+echo 'alias GLFfetch="fastfetch --config ~/.config/fastfetch/GLFfetch/challenge.jsonc"' >> ~/.bashrc
+```
+
+If you use fish :
+
+```bash
+alias GLFfetch="fastfetch --config ~/.config/fastfetch/GLFfetch/challenge.jsonc" --save
 ```
 
 Contribution
