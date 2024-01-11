@@ -21,7 +21,7 @@ A project which aims at making creating a small config file for all the GLF Linu
 
 Make sure you have the packages installed on your system:
 - fastfetch
-- a nerd font for the icons display (https://github.com/ryanoasis/nerd-fonts). I recommand ```ttf-fantasque-nerd```.
+- a nerd font for the icons display (https://github.com/ryanoasis/nerd-fonts). I recommend ```ttf-fantasque-nerd```.
 
 Then, clone this repository by running
 
