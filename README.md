@@ -26,7 +26,7 @@ Make sure you have the packages installed on your system:
 Then, clone this repository by running
 
 ```bash
-git clone https://github.com/Gaming-Linux-FR/GLFfetch ~/.config/fastfetch
+git clone https://github.com/Gaming-Linux-FR/GLFfetch ~/.config/fastfetch/GLFfetch
 ```
 
 ### Launch GLFfetch
@@ -35,13 +35,13 @@ git clone https://github.com/Gaming-Linux-FR/GLFfetch ~/.config/fastfetch
 Execute in terminal
 
 ```bash
-fastfetch --config ~/.config/fastfetch/challenge.jsonc
+fastfetch --config ~/.config/fastfetch/GLFfetch/challenge.jsonc
 ```
 
 Create an alias in your terminal. IE if you are using fish, add in your ```~/.config/fish/config.fish```
 
 ```bash
-alias GLFfetch="fastfetch --config ~/.config/fastfetch/challenge.jsonc"
+alias GLFfetch="fastfetch --config ~/.config/fastfetch/GLFfetch/challenge.jsonc"
 ```
 
 Contribution
