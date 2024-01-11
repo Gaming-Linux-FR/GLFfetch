@@ -20,10 +20,10 @@ A project which aims at making creating a small config file for all the GLF Linu
 ---
 
 Make sure you have the packages installed on your system:
-- fastfetch
+- `fastfetch`
 - a nerd font for the icons display (https://github.com/ryanoasis/nerd-fonts). I recommend ```ttf-fantasque-nerd```.
 
-Then, clone this repository by running
+Then, clone this repository in fastfetch configuration folder by running:
 
 ```bash
 git clone https://github.com/Gaming-Linux-FR/GLFfetch ~/.config/fastfetch/GLFfetch
@@ -31,12 +31,6 @@ git clone https://github.com/Gaming-Linux-FR/GLFfetch ~/.config/fastfetch/GLFfet
 
 ### Launch GLFfetch
 ---
-
-Execute in terminal
-
-```bash
-fastfetch --config ~/.config/fastfetch/GLFfetch/challenge.jsonc
-```
 
 Create an alias in your terminal.
 
@@ -50,6 +44,18 @@ If you use fish :
 
 ```bash
 alias GLFfetch="fastfetch --config ~/.config/fastfetch/GLFfetch/challenge.jsonc" --save
+```
+
+If you use zsh :
+
+```bash
+echo "alias GLFfetch='fastfetch --config ~/.config/fastfetch/GLFfetch/challenge.jsonc'" >> ~/.zshrc
+```
+
+Execute in terminal :
+
+```bash
+GLFfetch
 ```
 
 Contribution
