@@ -23,39 +23,12 @@ Make sure you have the packages installed on your system:
 - fastfetch
 - a nerd font for the icons display (https://github.com/ryanoasis/nerd-fonts). I recommand ```ttf-fantasque-nerd```.
 
-Then, use the tutorial below.
+Then, clone this repository by running
 
-<details>
-<summary> GUI </summary>
-
-- Go to the `.config` directory in your home folder using your file manager.\
-*Note: Press `Ctrl + H` to locate it, as it is a hidden directory.*
-- Navigate into the `fastfetch` directory.
-
-- Open the file `config.jsonc` with your preferred text editor and replace the text inside it with the config from this repo. Save the file and you're done!
-</details>
-
-<details>
-<summary> CLI </summary>
-
-1. Backup your config (if you have one) by running
 ```bash
-cp ~/.config/fastfetch/config.jsonc ~/.config/fastfetch/configbackup.jsonc
+mkdir -p ~/.config/fastfetch
+git clone https://github.com/Gaming-Linux-FR/GLFfetch ~/.config/fastfetch
 ```
-you save your current config in the file `configbackup.jsonc`.
-
-2. Clone this repository by running
-```bash
-git clone https://github.com/Gaming-Linux-FR/GLFfetch
-```
-in your preferred folder.
-
-3. Run 
-```bash
-cp GLFfetch/challenge.jsonc > ~/.config/fastfetch/config.jsonc
-cp GLFfetch/GLF.png ~/.config/fastfetch/GLF.png
-```
-</details>
 
 ### Launch GLFfetch
 ---
