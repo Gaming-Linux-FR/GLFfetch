@@ -26,7 +26,6 @@ Make sure you have the packages installed on your system:
 Then, clone this repository by running
 
 ```bash
-mkdir -p ~/.config/fastfetch
 git clone https://github.com/Gaming-Linux-FR/GLFfetch ~/.config/fastfetch
 ```
 
