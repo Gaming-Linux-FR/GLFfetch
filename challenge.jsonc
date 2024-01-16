@@ -56,16 +56,23 @@
             "type": "command",
             "shell": "/bin/bash",
             "key": " ",
-            // the double echo isn't very clean, but I haven't found a better one-line, json-compatible solution.
-            "text": "echo Distro installed the $(echo $(stat -c %W /) | awk '{print strftime(\"%e/%m/%Y\",$1)}')",
+            "text": "~/.config/fastfetch/GLFfetch/scripts/install_date.sh",
+            "keyColor": "black"
+        },      
+
+        {
+            "type": "command",
+            "shell": "/bin/bash",
+            "key": "󰘤 ",
+            "text": "~/.config/fastfetch/GLFfetch/scripts/challenge.sh",
             "keyColor": "black"
         },
 
         {
             "type": "command",
             "shell": "/bin/bash",
-            "key": "󰘤 ",
-            "text": "echo GLF Distro Challenge $(( ($(date +%s) - $(stat -c %W /)) / 86400 ))/30 days",
+            "key": "󰔵 ",
+            "text": "~/.config/fastfetch/GLFfetch/scripts/completion.sh",
             "keyColor": "black"
         },
         "break",
