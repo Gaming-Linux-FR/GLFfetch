@@ -7,7 +7,7 @@ function ProgressBar {
     printf -v _fill "%${_done}s"
     printf -v _empty "%${_left}s"
 
-printf "Progression : [${_fill// /▇}${_empty// / }] ${_progress}%%\n"
+printf "Progression : [${_fill// /▇}${_empty// / }] ${_progress}%%"
 }
 
 today=$(date +%s)
