@@ -77,5 +77,5 @@ Some ideas I would like to do in the future:
 - ~~move to Fastfetch because why not~~ (Thanks to @Sparkway)
 - improve output colors / display with GLF brand colors
 - Improve the README (Thanks to @Cardiacman13)
-- add a if in the print info when 30 days goal reached
-- add progress bar
+- ~~add a if in the print info when 30 days goal reached~~ (Thanks to @Sparkway)
+- ~~add progress bar~~ (Thanks to @Sparkway)
