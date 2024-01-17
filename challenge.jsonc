@@ -75,7 +75,6 @@
             "text": "~/.config/fastfetch/GLFfetch/scripts/completion.sh",
             "keyColor": "black"
         },
-        "break",
-        "colors"
+        "break"
     ]
 }
