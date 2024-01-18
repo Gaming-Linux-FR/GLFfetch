@@ -17,7 +17,7 @@
             "type": "os",
             "format": "{3}",
             "key": "󰣇 ",
-            "keyColor": "bright_magenta"
+            "keyColor": "bright_blue"
         },
         
         {
@@ -57,7 +57,7 @@
             "shell": "/bin/bash",
             "key": " ",
             "text": "~/.config/fastfetch/GLFfetch/scripts/install_date.sh",
-            "keyColor": "bright_black"
+            "keyColor": "blue"
         },      
 
         {
@@ -65,7 +65,7 @@
             "shell": "/bin/bash",
             "key": "󰘤 ",
             "text": "~/.config/fastfetch/GLFfetch/scripts/challenge.sh",
-            "keyColor": "bright_black"
+            "keyColor": "yellow"
         },
 
         {
@@ -73,9 +73,9 @@
             "shell": "/bin/bash",
             "key": "󰔵 ",
             "text": "~/.config/fastfetch/GLFfetch/scripts/completion.sh",
-            "keyColor": "bright_black"
+            "keyColor": "white"
         },
-        "break",
-        "colors"
+//        "break",
+//        "colors"
     ]
 }
