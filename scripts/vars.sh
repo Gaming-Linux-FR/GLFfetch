@@ -3,7 +3,7 @@
 function ProgressBar {
     let _progress=(${1}*100/${2}*100)/100
     let _done=(${_progress}*${bar_length})/10
-    let _left=${bar_length}*10-$_done
+    let _left=${bar_length}*10-${_done}
     printf -v _fill "%${_done}s"
     printf -v _empty "%${_left}s"
 
