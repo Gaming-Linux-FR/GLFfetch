@@ -57,7 +57,7 @@
             "shell": "/bin/bash",
             "key": " ",
             "text": "~/.config/fastfetch/GLFfetch/scripts/install_date.sh",
-            "keyColor": "black"
+            "keyColor": "bright_black"
         },      
 
         {
@@ -65,7 +65,7 @@
             "shell": "/bin/bash",
             "key": "󰘤 ",
             "text": "~/.config/fastfetch/GLFfetch/scripts/challenge.sh",
-            "keyColor": "black"
+            "keyColor": "bright_black"
         },
 
         {
@@ -73,7 +73,7 @@
             "shell": "/bin/bash",
             "key": "󰔵 ",
             "text": "~/.config/fastfetch/GLFfetch/scripts/completion.sh",
-            "keyColor": "black"
+            "keyColor": "bright_black"
         },
         "break",
         "colors"
