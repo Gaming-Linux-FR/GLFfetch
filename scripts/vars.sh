@@ -10,7 +10,7 @@ function ProgressBar {
 printf "[${_fill// /▇}${_empty// / }] ${_progress}%% Done"
 }
 
-bar_length=3 #Number between 1 and 10
+bar_length=2 #Number between 1 and 10
 today=$(date +%s)
 install_date=$(stat -c %W /)
 install_date_day=$(stat -c %W / | awk '{print strftime("%e/%m/%Y",$1)}' | awk '{$1=$1};1')
