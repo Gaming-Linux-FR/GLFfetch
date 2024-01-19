@@ -46,7 +46,7 @@
         },
 
         {
-            "type": "de",
+            "type": "wm",
             "key": "󰹑 ",
             "format": "{2}",
             "keyColor": "bright_magenta"
