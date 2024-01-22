@@ -23,7 +23,7 @@ Make sure you have the packages installed on your system:
 - `fastfetch`[Github realeses](https://github.com/fastfetch-cli/fastfetch/releases)
 - A nerd font for the icons display (https://github.com/ryanoasis/nerd-fonts). I recommend ```ttf-fantasque-nerd```.
 - For Debian, you need the latest version of Imagemagick. [Download here from xdavius github](https://github.com/Xdavius/debian-deb-releases/releases/download/PACKAGES/imagemagick_7.1.1-1_amd64.deb)
-  For nerd-fonts, you can use [pacstall](https://pacstall.dev/) and install fonts doing this command : "pacstall -I nerd-fonts-hack"
+  For nerd-fonts, you can use [pacstall](https://pacstall.dev/) and install fonts doing this command : ```pacstall -I nerd-fonts-hack```
 
 Then, clone this repository in fastfetch configuration folder by running:
 
