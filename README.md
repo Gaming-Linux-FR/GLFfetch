@@ -25,7 +25,7 @@ Make sure you have the packages installed on your system:
   
 - For Debian, you need the latest version of Imagemagick. [Download here prebuild .deb from xdavius github](https://github.com/Xdavius/debian-deb-releases/releases/download/PACKAGES/imagemagick_7.1.1-1_amd64.deb)
 
-  You also need kitty terminal emulator installed (```sudo apt install kitty```)
+  You also need kitty terminal emulator installed. (```sudo apt install kitty```)
   For nerd-fonts, you can use [pacstall](https://pacstall.dev/) and install fonts doing this command : ```pacstall -I nerd-fonts-hack```
 
 Then, clone this repository in fastfetch configuration folder by running:
