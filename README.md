@@ -20,7 +20,7 @@ A project which aims at making creating a small config file for all the GLF Linu
 ---
 
 Make sure you have the packages installed on your system:
-- `fastfetch`[Github realeses](https://github.com/fastfetch-cli/fastfetch/releases)
+- `fastfetch`  [Github realeses here](https://github.com/fastfetch-cli/fastfetch/releases)
 - A nerd font for the icons display (https://github.com/ryanoasis/nerd-fonts). I recommend ```ttf-fantasque-nerd```.
 - For Debian, you need the latest version of Imagemagick. [Download here from xdavius github](https://github.com/Xdavius/debian-deb-releases/releases/download/PACKAGES/imagemagick_7.1.1-1_amd64.deb)
   
