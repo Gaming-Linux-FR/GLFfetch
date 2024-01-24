@@ -37,7 +37,7 @@ Create an alias in your terminal.
 If you use bash :
 
 ```bash
-echo 'alias GLFfetch="fastfetch --config ~/.config/fastfetch/GLFfetch/challenge.jsonc"' >> ~/.bashrc
+echo 'alias GLFfetch="fastfetch --config ~/.config/fastfetch/GLFfetch/challenge.jsonc"' >> ~/.bashrc && source ~/.bashrc
 ```
 
 If you use fish :
