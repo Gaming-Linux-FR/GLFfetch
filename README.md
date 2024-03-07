@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img width="1000" src="https://cdn.discordapp.com/attachments/1138590540573708338/1215131910024466453/image.png?ex=65fba2c7&is=65e92dc7&hm=946f9fa70c499acd3ee31a8bfeb69c7b56e438bd78a79b0b59636a20db45f53a&" alt="GLFfetch screenshoot">
+  <img width="1000" src="https://github.com/Gaming-Linux-FR/GLFfetch/blob/main/GLFFetch-example.png" alt="GLFfetch screenshoot">
 </p>
 
 A project which aims at making creating a small config file for all the GLF Linux challenges participants.
