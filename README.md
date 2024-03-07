@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img width="1000" src="https://cdn.discordapp.com/attachments/1193995432007839867/1197680491030126712/image.png?ex=65bc25e0&is=65a9b0e0&hm=504e26ef9a4af9ab437df17e443487084fa0c38e70198251afbedad899f0573e&" alt="GLFfetch screenshoot">
+  <img width="1000" src="https://cdn.discordapp.com/attachments/1138590540573708338/1215131910024466453/image.png?ex=65fba2c7&is=65e92dc7&hm=946f9fa70c499acd3ee31a8bfeb69c7b56e438bd78a79b0b59636a20db45f53a&" alt="GLFfetch screenshoot">
 </p>
 
 A project which aims at making creating a small config file for all the GLF Linux challenges participants.
