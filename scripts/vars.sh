@@ -16,7 +16,7 @@ silverblue|kinoite)
 homedir=/var/home
 ;;
 *)
-homedir=/home
+homedir=/
 ;;
 esac
 
