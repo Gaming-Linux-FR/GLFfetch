@@ -26,6 +26,9 @@ case "$os" in
   "opensuse")
     new_icon=""
     new_color="green" ;;
+  "gentoo")
+    new_icon=""
+    new_color="purple" ;;
   *)
     new_icon="󰣇"
     new_color="bright_blue" ;;
