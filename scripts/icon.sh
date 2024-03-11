@@ -28,7 +28,7 @@ case "$os" in
     new_color="green" ;;
   "gentoo")
     new_icon=""
-    new_color="purple" ;;
+    new_color="magenta" ;;
   *)
     new_icon="󰣇"
     new_color="bright_blue" ;;
