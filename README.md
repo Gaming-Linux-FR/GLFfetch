@@ -1,8 +1,8 @@
 # GLFfetch
 
-## Migration du projet sur Codeberg
+## Project migrated on Codeberg
 
-Le Projet a été migré ici : https://codeberg.org/Gaming-Linux-FR/GLFfetch
+The project is now available here : https://codeberg.org/Gaming-Linux-FR/GLFfetch
 
 ---
 
