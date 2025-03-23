@@ -1,5 +1,9 @@
 # GLFfetch
 
+## Migration du projet sur Codeberg
+
+Le Projet a été migré ici : https://codeberg.org/Gaming-Linux-FR/GLFfetch
+
 ---
 
 <p align="center">
